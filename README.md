@@ -52,13 +52,16 @@ Add database integration
 
 # Payment Result :
 
+# Select Payment Method:
+
 <img width="379" height="355" alt="image" src="https://github.com/user-attachments/assets/2d04a1b0-da60-4b47-a3de-a9c1df974e7c" />
 
 
+# Confirm Payment :
 
 <img width="258" height="209" alt="image" src="https://github.com/user-attachments/assets/2be90bf4-5678-42ac-b56c-14f182cc0e7a" />
 
-
+# payment Successful :
 
 <img width="292" height="205" alt="image" src="https://github.com/user-attachments/assets/58dcdc45-6c69-437b-a46d-ee4551c8050e" />
 
