@@ -48,7 +48,7 @@ Add database integration
 
 # GUI Output Display : ordering system
 
-<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/33a54b2d-6ada-4b22-ae4e-d406f533896d" />
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/73e1fa07-6be4-4e5d-82b0-6b81514901c6" />
 
 # Payment Result :
 
