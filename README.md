@@ -1,28 +1,28 @@
-# Cafe Machine – Python Tkinter GUI Application
+# 🎯 Cafe Machine – Python Tkinter GUI Application
 
 A desktop-based Cafe Machine application built using Python and Tkinter that simulates a real café ordering system. The app allows users to select beverages, calculate total cost, and generate a bill through an interactive graphical interface.
 
-# Features
+# ✅ Features
 
-User-friendly GUI built with Tkinter
+✔ User-friendly GUI built with Tkinter
 
-Menu selection for café items (coffee, tea, etc.)
+✔ Menu selection for café items (coffee, tea, etc.)
 
-Automatic price calculation
+✔ Automatic price calculation
 
-Order summary and bill generation
+✔ Order summary and bill generation
 
-Simple and intuitive layout
+✔ Simple and intuitive layout
 
-Beginner-friendly Python project
+✔ Beginner-friendly Python project
 
-# Tech Stack
+# ✅ Tech Stack
 
-Python
+✔ Python
 
-Tkinter (GUI Framework)
+✔ Tkinter (GUI Framework)
 
-# Use Case
+# ✅ Use Case
 
 This project is ideal for:
 
@@ -44,13 +44,25 @@ Improve UI design
 
 Add database integration
 
+✅ Run the application
 
+cafe_GUI.py
 
-# GUI Output Display : ordering system
+✔ Café Machine GUI will open
+
+✔ Select menu items
+
+✔ Place orders and then Click Checkout and save pdf
+
+✔ View total bill and choose the payemnt method 
+
+✔ The order summary  and saved pdf is displayed
+
+# ✅ GUI Output Display : ordering system
 
 <img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/73e1fa07-6be4-4e5d-82b0-6b81514901c6" />
 
-# Payment Result :
+# ✅ Payment Result :
 
 # Select Payment Method:
 
